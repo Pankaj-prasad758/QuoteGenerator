@@ -12,8 +12,8 @@
 
 const Quotes = [
   {
-    text: "Past is Waste Paper Present is a Newspaper Future is a Question Paper so read and write carefuly otherwise your LIFE Will Be A Tissue Paper",
-    Author: "Leo",
+    text: "Life is tough my darling, but so are you.",
+    Author: "Stephanie Bennett Henry",
   },
   {
     text: "Some goals are so worthy, it's glorious even to fail!",
